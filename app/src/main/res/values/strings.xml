@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherMe</string>
+    <string name="open_weather_maps_id">5287d2f5a21f102bd493c95e5f6a894d</string>
+
+    <string name="change_city">Change city</string>
+    <string name="place_not_found">No weather data found for this city...</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="button_celsius">Convert to ºC</string>
+    <string name="button_fahrenheit">Convert to ºF</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
